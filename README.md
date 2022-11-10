@@ -9,7 +9,7 @@
 
 - 📝 I create and post christian content on my [instagram blog page](https://www.instagram.com/ignition_reads/)
 
-- 📫 Reach me via **shaviyavictor@gmail.com**
+- 📫 Reach me via **dummy@gmail.com**
 
 ### 🤝 Connect with me:
 
