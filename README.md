@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 🌱 I’m currently learning **Java**|**Azure DevOps**|**Linode**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 Some of my projects are available [here](https://shaviyavictor.github.io/shaviya/#portfolio)
 
